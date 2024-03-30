@@ -1,0 +1,1 @@
+export const MenuList = [{name: "Home",path: "/",active: true},{name: "Product",path: "/product",active: false},{name: "About",path: "/about",active: false},{name: "Contact",path: "/contact",active: false}]
